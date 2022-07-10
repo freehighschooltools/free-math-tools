@@ -1,6 +1,8 @@
 # Free Math Tools
 A collection of free math tools for those of us who are struggling or want to get ahead.
 
+>Note: This repo is still under development.
+
 ## Courses
 
 These are a list of all courses normally covered in High School (grades 9 - 12) In order, hopefully.
