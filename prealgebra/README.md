@@ -13,7 +13,7 @@ Yes, this is mostly middle-school stuff, but it doesn't hurt to review, right? P
 
 ## General tools
 
-There are more specific tools in later sections, but here are some of the important ones:
+There are more specific tools in this folder, but here are some of the important ones:
 
 * [Get live tutoring help][schoolhouse]
 * [Watch videos online, complete practice problems, and read articles][khanacademy]
